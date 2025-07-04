@@ -17,8 +17,7 @@
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/tetris-2025-0.git
-    cd tetris-2025-0
+    git clone https://github.com/Pieroperez17/Proyecto-Tetris-Con-React.git
     ```
 2. Instala las dependencias:
     ```bash
