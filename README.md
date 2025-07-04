@@ -1,4 +1,4 @@
-# 🎮 Tetris 2025-0
+# 🎮 Tetris en la WEB
 
 ¡Bienvenido al proyecto **Tetris**! Un clon moderno del clásico juego Tetris, desarrollado como parte de un proyecto académico.
 
